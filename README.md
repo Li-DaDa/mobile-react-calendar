@@ -1,5 +1,5 @@
 # 描述
-基于react的移动端日期选择组件，仿携程日历，可选区间日期，也可选一天
+[mobile-react-calendar](https://github.com/Li-DaDa/mobile-react-calendar)基于react的移动端日期选择组件，仿携程日历，可选区间日期，也可选一天
 
 # 依赖关系
 version ^0.0.1 -> React ^16.11.0
