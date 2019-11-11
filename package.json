@@ -1,6 +1,6 @@
 {
   "name": "mobile-react-calendar",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "build/index.js",
   "license": "MIT",
   "dependencies": {
