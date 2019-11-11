@@ -1,0 +1,31 @@
+{
+  "name": "mobile-react-calendar",
+  "version": "0.0.6",
+  "main": "build/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "style-loader": "^1.0.0",
+    "@babel/core": "^7.7.2",
+    "@babel/plugin-proposal-class-properties": "^7.7.0",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/preset-react": "^7.7.0",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.2.0"
+  },
+  "keywords": [
+    "react",
+    "calendar",
+    "datepicker",
+    "仿携程日历",
+    "mobile"
+  ],
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
